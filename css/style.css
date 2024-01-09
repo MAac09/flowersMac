@@ -23,7 +23,7 @@ body {
 /* Estilos para la versión de PC */
 @media only screen and (min-width: 768px) {
     body {
-        background-image: url('img.svg');
+        background-image: url('img.png');
     }
 }
 
